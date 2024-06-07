@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903572341066",
+    "project_id": "umla-ass",
+    "storage_bucket": "umla-ass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903572341066:android:fd3a3148bc6f23c44001b3",
+        "android_client_info": {
+          "package_name": "com.example.umla_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaNsmTVsihIPBwbBO7Pwvn4X0s3n52kFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
